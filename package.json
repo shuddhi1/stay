@@ -1,0 +1,12 @@
+{
+  "name": "leela-stays",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 5173",
+    "preview": "python -m http.server 5173"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
