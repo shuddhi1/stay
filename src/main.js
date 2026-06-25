@@ -7,7 +7,7 @@ const rooms = [
     id: "cabin",
     name: "Cabin",
     short: "A warm wooden cabin with loft-style sleeping and valley views.",
-    image: ["/images/cabin-bedroom.jpeg","/images/cabin/sofa.jpeg","/images/cabin-balcony-night.jpeg"],
+    image: "/images/cabin-bedroom.jpeg",
     description:
       "A cozy wooden cabin with a loft bed, lounge seating, balcony access, warm lighting, and beautiful night views from the room.",
     occupants: "5 adults",
